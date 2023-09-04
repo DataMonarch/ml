@@ -1,0 +1,6 @@
+# ignore the tensorflow log folder
+*/log/
+
+
+# ignore .out files
+*.out*
