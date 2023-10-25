@@ -4,3 +4,5 @@
 
 # ignore .out files
 *.out*
+*.mp4
+*.jar
